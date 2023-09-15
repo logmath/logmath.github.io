@@ -1,0 +1,108 @@
+/*Change the font style on the Entire Document */
+html{
+  font-family: "space mono";
+  font-size: 1rem;
+  color: #000000;
+}
+
+/*Change on the Body*/
+body{
+  font-family: "space mono";  
+  font-size: 1rem;
+  color: black;
+  background-color: #191919;
+}
+
+/* Links */
+
+a:link{
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: slategray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* Format of Citations */
+.pub-authors {
+  margin-top: 0.5em;
+  margin-left: 1em;
+  font-size: small;
+  line-height: 1.3;
+}
+
+.pub-title {
+  margin-top: 0.5em;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.pub-citation {
+  margin-top: 0.5em;
+  margin-left: 1em;
+  font-size: small;
+  line-height: normal;
+}
+
+/* Nav Bar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+
+li.menu-bar {
+  float: left;
+}
+
+li.menu-bar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li.menu-bar a:hover {
+  background-color: #111;
+}
+
+/* .pub-item {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: top;
+  width: 40em;
+}
+
+.pub-ol {
+  margin-left: 0em;
+}
+
+ol, ul, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+} */
+
+footer{
+    font-family:'space mono';
+    font-size: 0.75rem;
+    color: slategray;
+}
