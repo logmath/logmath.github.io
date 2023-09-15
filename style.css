@@ -2,15 +2,14 @@
 
 /*Change the font style on the Entire Document */
 html{
-  font-family: 'Inter', sans-serif;
-  font-stretch: condensed;
+  font-family: 'Inter';
   font-size: 1rem;
   color: #000000;
 }
 
 /*Change on the Body*/
 body{
-  font-family: 'Inter', sans-serif; 
+  font-family: 'Inter'; 
   font-stretch: condensed; 
   font-size: 1rem;
   color: black;
