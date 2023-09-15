@@ -2,14 +2,14 @@
 
 /*Change the font style on the Entire Document */
 html{
-  font-family: "Inter";
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   color: #000000;
 }
 
 /*Change on the Body*/
 body{
-  font-family: "Inter";  
+  font-family: 'Inter', sans-serif;  
   font-size: 1rem;
   color: black;
   background-color: #191919;
