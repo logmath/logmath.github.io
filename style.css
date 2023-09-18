@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inter;lang=en" />
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 /*Change the font style on the Entire Document */
 html{
@@ -59,7 +60,7 @@ a:hover {
 
 /* Nav Bar */
 
-ul {
+ul.menu-bar {
   list-style-type: none;
   margin: 0;
   padding: 0;
